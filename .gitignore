@@ -1,0 +1,3 @@
+cv_env/
+*.pt
+__pycache__/
